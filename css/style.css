@@ -201,7 +201,7 @@ h2{
   position: relative;
 }
 .site__section--start {
-  background: url("images/banner1.jpg") 50%/cover no-repeat;
+  background: url("/images/banner.png") 50%/cover no-repeat;
 }
 
 .button {
