@@ -89,7 +89,7 @@ a {
   position: relative;
 }
 .site-section-start {
-  background: url("/images/banner.jpg") 50%/cover no-repeat;
+  background: url("/images/bg-banner.jpg") 50%/cover no-repeat;
 }
 
 .button {
