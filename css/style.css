@@ -38,10 +38,10 @@ a {
   display: flex;
   flex-direction: row;
 }
-.align__item--start {
+.align-item-start {
   align-self: flex-start;
 }
-.align__item--end {
+.align-item-end {
   align-self: flex-end;
 }
 
@@ -49,10 +49,10 @@ a {
   animation-duration: 2s;
   animation-timing-function: ease-in-out;
 }
-.animation--infinite {
+.animation-infinite {
   animation-iteration-count: infinite;
 }
-.animation--up-down {
+.animation-up-down {
   animation-name: upDown;
 }
 
@@ -67,7 +67,7 @@ a {
     transform: translateY(-15px);
   }
 }
-.text--center {
+.text-center {
   text-align: center;
 }
 
@@ -183,7 +183,7 @@ h2{
 }
 
 
-.site_header {
+.site-header {
   left: 0;
   padding: 20px 0;
   position: fixed;
@@ -192,15 +192,15 @@ h2{
   width: 100%;
   z-index: 1;
 }
-.site__logo {
+.logo {
   float: left;
 }
 
-.site__section {
+.site-section {
   min-height: 100vh;
   position: relative;
 }
-.site__section--start {
+.site-section-start {
   background: url("/images/banner.png") 50%/cover no-repeat;
 }
 
@@ -216,7 +216,7 @@ h2{
   width: 0 !important;
 }
 
-.button--scroll {
+.button-scroll {
   bottom: 2rem;
   left: 50%;
   position: absolute;
