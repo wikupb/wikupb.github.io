@@ -21,7 +21,6 @@
 <div class="grid-x grid-margin-x">
   <div class="large-8 cell" style="border-right: 1px solid #E3E5E8;">
 
-
     <div class="grid-x grid-margin-x">
       <div class="large-6 cell">
         <p><img src="https://placehold.it/600x370&text=Look at me!" alt="image for article" alt="article preview image"></p>
